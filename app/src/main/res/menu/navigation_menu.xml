@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/topHeadlines"
+            android:title="@string/topHeadlines" />
+
+        <item
+            android:id="@+id/apple"
+            android:title="@string/apple" />
+
+        <item
+            android:id="@+id/bitcoin"
+            android:title="@string/bitcoin" />
+
+        <item
+            android:id="@+id/States"
+            android:title="@string/states" />
+
+        <item
+            android:id="@+id/business"
+            android:title="@string/business" />
+
+        <item
+            android:id="@+id/cities"
+            android:title="@string/cities" />
+
+
+        <item
+            android:id="@+id/sports"
+            android:title="@string/sports" />
+
+        <item
+            android:id="@+id/entertainment"
+            android:title="@string/entertainment" />
+
+        <item
+            android:id="@+id/society"
+            android:title="@string/society" />
+
+        <item
+            android:id="@+id/books"
+            android:title="@string/books" />
+
+        <item
+            android:id="@+id/life_style"
+            android:title="@string/life_style" />
+
+        <item
+            android:id="@+id/tech"
+            android:title="@string/technology" />
+    </group>
+</menu>

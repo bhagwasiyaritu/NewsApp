@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="loading">loading...</string>
+    <string name="news_title">News Title</string>
+    <string name="news_author">Author</string>
+    <string name="news_date">2020-01-08</string>
+    <string name="news_description">This space for news description</string>
+    <string name="news_saved">News Saved</string>
+    <string name="news_unsaved">News Unsaved</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_on">Dark Mode On</string>
+    <string name="dark_mode_off">Dark Mode Off</string>
+    <string name="share_feedback">Share Feedback</string>
+    <string name="help_heading">How To/Help</string>
+
+    <!-- Side Menu Items  -->
+    <string name="topHeadlines">Home</string>
+    <string name="apple">National</string>
+    <string name="bitcoin">International</string>
+    <string name="states">States</string>
+    <string name="business">Business</string>
+    <string name="cities">Cities</string>
+    <string name="sports">Sports</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="society">Society</string>
+    <string name="books">Books</string>
+    <string name="life_style">Life-Style</string>
+    <string name="technology">Technology</string>
+    <string name="education">Education</string>
+    <string name="multimedia">Multimedia</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="help_content_first">Thank You for downloading The News Android app. </string>
+
+</resources>

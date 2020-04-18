@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="news_img_width">150dp</dimen>
+    <dimen name="news_img_height">200dp</dimen>
+    <dimen name="share_icon_width">30dp</dimen>
+    <dimen name="share_icon_height">30dp</dimen>
+    <dimen name="bookmark_icon_width">30dp</dimen>
+    <dimen name="bookmark_icon_height">30dp</dimen>
+</resources>
